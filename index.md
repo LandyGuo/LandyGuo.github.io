@@ -9,14 +9,14 @@ layout: default
 Hi! I am currently a senior algorithm engineer of Ant Group, leading a small team for research and development in multi-modal machine learning algorithm and framework development. Previously I received his master's degree at the Institute of Software, Chinese Academy of Sciences in 2017 and B.E. degree from Huazhong University of Science and Technology in 2014. My main interest is to design and deliver cognitive computing services, including computer vision, natural language understanding and multimodal machine learning. I have published in top-tier conferences and journals including CVPR, ECCV, AAAI and JAS, and served as a regular reviewer for CVPR2023/TPAMI/ICCV2023/CVPR2024/IJCAI2024/ECCV2024.
 
 ## News
-We are always actively recruiting Research Interns and FTEs! Welcome to [contact me]() with your detailed CV! (常年招收科研实习生和全职职员！)
+We are always actively recruiting Research Interns and FTEs! Welcome to [contact me](mailto:qingpei.gqp@antgroup.com) with your detailed CV! (常年招收科研实习生和全职职员！)
 [05/2024] One paper is accepted by ICML 2024! [paper](https://arxiv.org/abs/2401.02137)  
 [04/2024] One paper is accepted by IJCAI 2024!  
 [03/2024] One paper is accepted by SIGIR 2024! [paper](https://arxiv.org/abs/2401.17797) [code](https://github.com/alipay/Ant-Multi-Modal-Framework/tree/main/prj/M2_RAAP)  
 [02/2024] One paper is accepted by CVPR2024! [paper](https://arxiv.org/abs/2310.00582) [code](https://github.com/SY-Xuan/Pink.)  
 
 ## Publications (* is the corresponding author, # is the co-first author)
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="teaser_figure.jpg">
 Gan, T., Wang, Q., Dong, X., Ren, X., Nie, L., & **Guo, Q.<sup>*</sup>**. (2023, June). CNVid-3.5 M: Build, Filter, and Pre-Train the Large-Scale Public Chinese Video-Text Dataset. In 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR2023) (pp. 14815-14824). IEEE. [paper](https://ieeexplore.ieee.org/document/10205453) [code](https://github.com/CNVid/CNVid-3.5M)
 2. Chen, J., Hong, L., Yuan, C., Jia, X., **Guo, Q.<sup>*</sup>**, Yuan Q. (2023, October). Dual-Modal Attention-Enhanced Text-Video Retrieval with Triplet Partial Margin Contrastive Learning. In Proceedings of the 31st ACM International Conference on Multimedia (MM2023) (pp. 4626-4636).
 3. Dong, X.<sup>#</sup>, **Guo, Q.<sup>#</sup>**, Gan, T., Wang, Q., Wu, J., Ren, X., ... & Chu, W. (2023). SNP-S 3: Shared Network Pre-training and Significant Semantic Strengthening for Various Video-Text Tasks. IEEE Transactions on Circuits and Systems for Video Technology.
