@@ -51,11 +51,10 @@ Hi! I am currently a senior algorithm engineer of Ant Group, leading a small tea
 17. 编码装置、数据处理方法及装置-CN115062782A
 18. 透過電腦執行的、用於車輛零件識別的神經網路系統、透過神經網路系統進行車輛零件識別的方法、進行車輛零件識別的裝置和計算設備-TWI742382B
 
-##Education
-Master of Engineering in Computer Application Technology      2014-2017    Institute of Software, Chinese Academy of Sciences
-Bachelor of Engineering in Tele Communications Engineering    2010-1014    Huazhong University of Science and Technology
-Bachelor of Engineering in Business Management                2010-1014    Huazhong University of Science and Technology
-
+##  Education
+Master of Engineering in Computer Application Technology      2014-2017    Institute of Software, Chinese Academy of Sciences  
+Bachelor of Engineering in Tele Communications Engineering    2010-1014    Huazhong University of Science and Technology  
+Bachelor of Engineering in Business Management                2010-1014    Huazhong University of Science and Technology  
 
 ##Award
 
