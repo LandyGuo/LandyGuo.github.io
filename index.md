@@ -1,10 +1,7 @@
----
-layout: default
----
 
 ## Qingpei Guo (郭清沛)
 Ant Group
-Email: qingpei.gqp@antgroup.com(mailto:qingpei.gqp@antgroup.com)
+Email: [qingpei.gqp@antgroup.com](mailto:qingpei.gqp@antgroup.com)
 
 ## About Me
 Hi! I am currently a senior algorithm engineer of Ant Group, leading a small team for research and development in multi-modal machine learning algorithm and framework development. Previously I received his master's degree at the Institute of Software, Chinese Academy of Sciences in 2017 and B.E. degree from Huazhong University of Science and Technology in 2014. My main interest is to design and deliver cognitive computing services, including computer vision, natural language understanding and multimodal machine learning. I have published in top-tier conferences and journals including CVPR, ECCV, AAAI and JAS, and served as a regular reviewer for CVPR2023/TPAMI/ICCV2023/CVPR2024/IJCAI2024/ECCV2024.
