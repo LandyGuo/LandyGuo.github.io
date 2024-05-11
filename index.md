@@ -16,7 +16,8 @@ We are always actively recruiting Research Interns and FTEs! Welcome to [contact
 [02/2024] One paper is accepted by CVPR2024! [paper](https://arxiv.org/abs/2310.00582) [code](https://github.com/SY-Xuan/Pink.)  
 
 ## Publications (* is the corresponding author, # is the co-first author)
-1. Gan, T., Wang, Q., Dong, X., Ren, X., Nie, L., & **Guo, Q.<sup>*</sup>**. (2023, June). CNVid-3.5 M: Build, Filter, and Pre-Train the Large-Scale Public Chinese Video-Text Dataset. In 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR2023) (pp. 14815-14824). IEEE. 
+<img class="profile-picture" src="sherlock.jpg">
+Gan, T., Wang, Q., Dong, X., Ren, X., Nie, L., & **Guo, Q.<sup>*</sup>**. (2023, June). CNVid-3.5 M: Build, Filter, and Pre-Train the Large-Scale Public Chinese Video-Text Dataset. In 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR2023) (pp. 14815-14824). IEEE. [paper](https://ieeexplore.ieee.org/document/10205453) [code](https://github.com/CNVid/CNVid-3.5M)
 2. Chen, J., Hong, L., Yuan, C., Jia, X., **Guo, Q.<sup>*</sup>**, Yuan Q. (2023, October). Dual-Modal Attention-Enhanced Text-Video Retrieval with Triplet Partial Margin Contrastive Learning. In Proceedings of the 31st ACM International Conference on Multimedia (MM2023) (pp. 4626-4636).
 3. Dong, X.<sup>#</sup>, **Guo, Q.<sup>#</sup>**, Gan, T., Wang, Q., Wu, J., Ren, X., ... & Chu, W. (2023). SNP-S 3: Shared Network Pre-training and Significant Semantic Strengthening for Various Video-Text Tasks. IEEE Transactions on Circuits and Systems for Video Technology.
 4. **Guo, Q.**, Yao, K., & Chu, W. (2022, October). Switch-bert: Learning to model multimodal interactions by switching attention and input. In European Conference on Computer Vision (ECCV2022)(pp. 330-346). Cham: Springer Nature Switzerland.
