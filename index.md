@@ -10,13 +10,13 @@ Hi! I am currently a senior algorithm engineer of Ant Group, leading a small tea
 
 ## News
 
-[05/2024] One paper is accepted by ICML 2024! [paper](https://arxiv.org/abs/2401.02137)
-[04/2024] One paper is accepted by IJCAI 2024!
-[03/2024] One paper is accepted by SIGIR 2024! [paper](https://arxiv.org/abs/2401.17797) [code](https://github.com/alipay/Ant-Multi-Modal-Framework/tree/main/prj/M2_RAAP)
-[02/2024] One paper is accepted by CVPR2024! [paper](https://arxiv.org/abs/2310.00582) [code](https://github.com/SY-Xuan/Pink.)
+[05/2024] One paper is accepted by ICML 2024! [paper](https://arxiv.org/abs/2401.02137)  
+[04/2024] One paper is accepted by IJCAI 2024!  
+[03/2024] One paper is accepted by SIGIR 2024! [paper](https://arxiv.org/abs/2401.17797) [code](https://github.com/alipay/Ant-Multi-Modal-Framework/tree/main/prj/M2_RAAP)  
+[02/2024] One paper is accepted by CVPR2024! [paper](https://arxiv.org/abs/2310.00582) [code](https://github.com/SY-Xuan/Pink.)  
 
 ## Publications (* is the corresponding author, # is the co-first author)
-1. Gan, T., Wang, Q., Dong, X., Ren, X., Nie, L., & **Guo, Q.^*^**. (2023, June). CNVid-3.5 M: Build, Filter, and Pre-Train the Large-Scale Public Chinese Video-Text Dataset. In 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR2023) (pp. 14815-14824). IEEE. 
+1. Gan, T., Wang, Q., Dong, X., Ren, X., Nie, L., & **Guo, Q.<sup>*</sup>**. (2023, June). CNVid-3.5 M: Build, Filter, and Pre-Train the Large-Scale Public Chinese Video-Text Dataset. In 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR2023) (pp. 14815-14824). IEEE. 
 2. Chen, J., Hong, L., Yuan, C., Jia, X., **Guo, Q.^*^**, Yuan Q. (2023, October). Dual-Modal Attention-Enhanced Text-Video Retrieval with Triplet Partial Margin Contrastive Learning. In Proceedings of the 31st ACM International Conference on Multimedia (MM2023) (pp. 4626-4636).
 3. Dong, X.^#^, **Guo, Q.^#^**, Gan, T., Wang, Q., Wu, J., Ren, X., ... & Chu, W. (2023). SNP-S 3: Shared Network Pre-training and Significant Semantic Strengthening for Various Video-Text Tasks. IEEE Transactions on Circuits and Systems for Video Technology.
 4. **Guo, Q.**, Yao, K., & Chu, W. (2022, October). Switch-bert: Learning to model multimodal interactions by switching attention and input. In European Conference on Computer Vision (ECCV2022)(pp. 330-346). Cham: Springer Nature Switzerland.
