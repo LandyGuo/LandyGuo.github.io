@@ -1,5 +1,5 @@
 
-## Qingpei Guo (郭清沛)
+## Qingpei Guo
 Ant Group  
 Email: [qingpei.gqp@antgroup.com](mailto:qingpei.gqp@antgroup.com)
 
@@ -13,7 +13,8 @@ We are always actively recruiting Research Interns and FTEs! Welcome to [contact
 [03/2024] One paper is accepted by SIGIR 2024! [paper](https://arxiv.org/abs/2401.17797) [code](https://github.com/alipay/Ant-Multi-Modal-Framework/tree/main/prj/M2_RAAP)  
 [02/2024] One paper is accepted by CVPR2024! [paper](https://arxiv.org/abs/2310.00582) [code](https://github.com/SY-Xuan/Pink.)  
 
-## Publications (* is the corresponding author, # is the co-first author)
+## Publications  
+(* is the corresponding author, # is the co-first author)  
 1. Gan, T., Wang, Q., Dong, X., Ren, X., Nie, L., & **Guo, Q.<sup>*</sup>**. (2023, June). CNVid-3.5 M: Build, Filter, and Pre-Train the Large-Scale Public Chinese Video-Text Dataset. In 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR2023) (pp. 14815-14824). IEEE. [paper](https://ieeexplore.ieee.org/document/10205453) [code](https://github.com/CNVid/CNVid-3.5M)  
 2. Chen, J., Hong, L., Yuan, C., Jia, X., **Guo, Q.<sup>*</sup>**, Yuan Q. (2023, October). Dual-Modal Attention-Enhanced Text-Video Retrieval with Triplet Partial Margin Contrastive Learning. In Proceedings of the 31st ACM International Conference on Multimedia (MM2023) (pp. 4626-4636). [paper](https://dl.acm.org/doi/10.1145/3581783.3612006) [code](https://github.com/alipay/Ant-Multi-Modal-Framework)  
 3. Dong, X.<sup>#</sup>, **Guo, Q.<sup>#</sup>**, Gan, T., Wang, Q., Wu, J., Ren, X., ... & Chu, W. (2023). SNP-S 3: Shared Network Pre-training and Significant Semantic Strengthening for Various Video-Text Tasks. IEEE Transactions on Circuits and Systems for Video Technology. [paper](https://ieeexplore.ieee.org/document/10214396) [code](https://github.com/alipay/Ant-Multi-Modal-Framework/tree/main/prj/snps3_vtp.)  
@@ -28,26 +29,24 @@ We are always actively recruiting Research Interns and FTEs! Welcome to [contact
 ## US Patents
 1. **Guo, Q.**, Chu W. Coding apparatuses, and data processing methods and apparatuses: U.S. Patent Application 18/348,122[P]. 2024-4-25.
 2. **Guo, Q.** Method and system for facilitating recognition of vehicle parts based on a neural network: U.S. Patent 11,475,660[P]. 2022-10-18.
-
-## China Patents
-1. 一种鲁棒的基于深度学习的连续情绪跟踪方法-CN106919903B
-2. 图像处理的方法及装置-CN111524150B
-3. 用于训练特征提取模型的方法、特征提取方法和装置- CN116522142A
-4. 基于自然交互的隐式身份认证方法-CN106888204B
-5. 用于确定文本和视频之间的相似度的方法和装置-CN116958868A
-6. 基于图片的意图检测方法及装置-CN115512340A
-7. 通过计算机执行的、用于识别车辆部件的方法及装置-CN110705590B
-8. 视频特征模型训练方法及装置、视频特征提取方法及装置-CN116721375A
-9. 一种通过多图形处理器计算对比损失的方法和装置-CN117556273A
-10. 一种聊天机器人应答方法和装置-CN110457456A
-11. 一种多模态模型的训练方法及装置-CN117541894A
-12. 训练内容理解模型和内容生成模型的方法及装置-CN117235534A
-13. 视频编辑方法及装置-CN117315056A
-14. 用于确定文本和视频之间的相似度的方法和装置-CN117556276A
-15. 大模型的训练方法和装置-CN117521759A
-16. 一种获取多模态特征方法和装置-CN117521017A
-17. 编码装置、数据处理方法及装置-CN115062782A
-18. 透過電腦執行的、用於車輛零件識別的神經網路系統、透過神經網路系統進行車輛零件識別的方法、進行車輛零件識別的裝置和計算設備-TWI742382B
+3. 一种鲁棒的基于深度学习的连续情绪跟踪方法-CN106919903B
+4. 图像处理的方法及装置-CN111524150B
+5. 用于训练特征提取模型的方法、特征提取方法和装置- CN116522142A
+6. 基于自然交互的隐式身份认证方法-CN106888204B
+7. 用于确定文本和视频之间的相似度的方法和装置-CN116958868A
+8. 基于图片的意图检测方法及装置-CN115512340A
+9. 通过计算机执行的、用于识别车辆部件的方法及装置-CN110705590B
+10. 视频特征模型训练方法及装置、视频特征提取方法及装置-CN116721375A
+11. 一种通过多图形处理器计算对比损失的方法和装置-CN117556273A
+12. 一种聊天机器人应答方法和装置-CN110457456A
+13. 一种多模态模型的训练方法及装置-CN117541894A
+14. 训练内容理解模型和内容生成模型的方法及装置-CN117235534A
+15. 视频编辑方法及装置-CN117315056A
+16. 用于确定文本和视频之间的相似度的方法和装置-CN117556276A
+17. 大模型的训练方法和装置-CN117521759A
+18. 一种获取多模态特征方法和装置-CN117521017A
+19. 编码装置、数据处理方法及装置-CN115062782A
+20. 透過電腦執行的、用於車輛零件識別的神經網路系統、透過神經網路系統進行車輛零件識別的方法、進行車輛零件識別的裝置和計算設備-TWI742382B
 
 ##  Education
 
