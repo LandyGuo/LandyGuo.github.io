@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! I am currently a senior algorithm engineer of Ant Group, leading a small team for research and development in multi-modal machine learning algorithm and framework development. Previously I received his master's degree at the Institute of Software, Chinese Academy of Sciences in 2017 and B.E. degree from Huazhong University of Science and Technology in 2014. My main interest is to design and deliver cognitive computing services, including computer vision, natural language understanding and multimodal machine learning. I have published in top-tier conferences and journals including CVPR, ECCV, AAAI and JAS, and served as a regular reviewer for CVPR, ICCV, IJCAI, ECCV and TPAMI.
+Hi! I am currently a senior algorithm engineer of Ant Group, leading a small team for research and development in multi-modal machine learning algorithm and framework development. Previously I received his master's degree at the Institute of Software, Chinese Academy of Sciences in 2017 and B.E. degree from Huazhong University of Science and Technology in 2014. My main interest is to design and deliver cognitive computing services, including computer vision, natural language understanding and multimodal machine learning. I have published in top-tier conferences and journals including CVPR, ECCV, AAAI and JAS, and served as a regular reviewer for CVPR2023/TPAMI/ICCV2023/CVPR2024/IJCAI2024/ECCV2024.
 
 ## News
 
@@ -51,21 +51,19 @@ Hi! I am currently a senior algorithm engineer of Ant Group, leading a small tea
 17. 编码装置、数据处理方法及装置-CN115062782A
 18. 透過電腦執行的、用於車輛零件識別的神經網路系統、透過神經網路系統進行車輛零件識別的方法、進行車輛零件識別的裝置和計算設備-TWI742382B
 
+##Education
+Master of Engineering in Computer Application Technology      2014-2017    Institute of Software, Chinese Academy of Sciences
+Bachelor of Engineering in Tele Communications Engineering    2010-1014    Huazhong University of Science and Technology
+Bachelor of Engineering in Business Management                2010-1014    Huazhong University of Science and Technology
 
 
+##Award
 
-
-## Typography
-
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+Year | Award 
+-----|-------
+2024 | Fudan University enterprise mentor
+2017 | ICDAR MLT 文本检测track第一名
+2019 | ICCV2019 COCO全景分割track第三名
 
 Here is a horizontal rule
 
