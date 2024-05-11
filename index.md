@@ -2,10 +2,11 @@
 layout: default
 ---
 
+## Qingpei Guo (郭清沛)
+Ant Group
+Email: qingpei.gqp@antgroup.com(mailto:qingpei.gqp@antgroup.com)
+
 ## About Me
-
-<img class="profile-picture" src="sherlock.jpg">
-
 Hi! I am currently a senior algorithm engineer of Ant Group, leading a small team for research and development in multi-modal machine learning algorithm and framework development. Previously I received his master's degree at the Institute of Software, Chinese Academy of Sciences in 2017 and B.E. degree from Huazhong University of Science and Technology in 2014. My main interest is to design and deliver cognitive computing services, including computer vision, natural language understanding and multimodal machine learning. I have published in top-tier conferences and journals including CVPR, ECCV, AAAI and JAS, and served as a regular reviewer for CVPR2023/TPAMI/ICCV2023/CVPR2024/IJCAI2024/ECCV2024.
 
 ## News
@@ -16,16 +17,15 @@ We are always actively recruiting Research Interns and FTEs! Welcome to [contact
 [02/2024] One paper is accepted by CVPR2024! [paper](https://arxiv.org/abs/2310.00582) [code](https://github.com/SY-Xuan/Pink.)  
 
 ## Publications (* is the corresponding author, # is the co-first author)
-<img class="profile-picture" src="teaser_figure.jpg" width = "20" height = "20">
-Gan, T., Wang, Q., Dong, X., Ren, X., Nie, L., & **Guo, Q.<sup>*</sup>**. (2023, June). CNVid-3.5 M: Build, Filter, and Pre-Train the Large-Scale Public Chinese Video-Text Dataset. In 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR2023) (pp. 14815-14824). IEEE. [paper](https://ieeexplore.ieee.org/document/10205453) [code](https://github.com/CNVid/CNVid-3.5M)
-2. Chen, J., Hong, L., Yuan, C., Jia, X., **Guo, Q.<sup>*</sup>**, Yuan Q. (2023, October). Dual-Modal Attention-Enhanced Text-Video Retrieval with Triplet Partial Margin Contrastive Learning. In Proceedings of the 31st ACM International Conference on Multimedia (MM2023) (pp. 4626-4636).
-3. Dong, X.<sup>#</sup>, **Guo, Q.<sup>#</sup>**, Gan, T., Wang, Q., Wu, J., Ren, X., ... & Chu, W. (2023). SNP-S 3: Shared Network Pre-training and Significant Semantic Strengthening for Various Video-Text Tasks. IEEE Transactions on Circuits and Systems for Video Technology.
-4. **Guo, Q.**, Yao, K., & Chu, W. (2022, October). Switch-bert: Learning to model multimodal interactions by switching attention and input. In European Conference on Computer Vision (ECCV2022)(pp. 330-346). Cham: Springer Nature Switzerland.
-5. Hong, W., **Guo, Q.**, Zhang, W., Chen, J., & Chu, W. (2021). Lpsnet: A lightweight solution for fast panoptic segmentation. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR2021) (pp. 16746-16754).
-6. Gan, T., Wang, X., Sun, Y., Wu, J., **Guo, Q.**, & Nie, L. (2023, October). Temporal Sentence Grounding in Streaming Videos. In Proceedings of the 31st ACM International Conference on Multimedia (MM2023)(pp. 4637-4646).
-7. Pan, T., Xu, F., Yang, X., He, S., Jiang, C., **Guo, Q.**, ... & Chu, W. (2023). Boundary-aware Backward-Compatible Representation via Adversarial Learning in Image Retrieval. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR2023)(pp. 15201-15210).
-8. Zhang, W., Cheng, Y., Guo, X., **Guo, Q.**, Wang, J., Wang, Q., ... & Chu, W. (2020, April). Automatic car damage assessment system: Reading and understanding videos as professional insurance inspectors. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 34, No. 09, pp. 13646-13647).
-9. Yao, N. M., **Guo, Q.** P., Qiao, F. C., Chen, H., & Wang, H. A. (2018). Robust facial expression recognition with generative adversarial networks. Acta Automatica Sinica, 44(5), 865-877.
+1. Gan, T., Wang, Q., Dong, X., Ren, X., Nie, L., & **Guo, Q.<sup>*</sup>**. (2023, June). CNVid-3.5 M: Build, Filter, and Pre-Train the Large-Scale Public Chinese Video-Text Dataset. In 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR2023) (pp. 14815-14824). IEEE. [paper](https://ieeexplore.ieee.org/document/10205453) [code](https://github.com/CNVid/CNVid-3.5M)  
+2. Chen, J., Hong, L., Yuan, C., Jia, X., **Guo, Q.<sup>*</sup>**, Yuan Q. (2023, October). Dual-Modal Attention-Enhanced Text-Video Retrieval with Triplet Partial Margin Contrastive Learning. In Proceedings of the 31st ACM International Conference on Multimedia (MM2023) (pp. 4626-4636). [paper](https://dl.acm.org/doi/10.1145/3581783.3612006) [code](https://github.com/alipay/Ant-Multi-Modal-Framework)  
+3. Dong, X.<sup>#</sup>, **Guo, Q.<sup>#</sup>**, Gan, T., Wang, Q., Wu, J., Ren, X., ... & Chu, W. (2023). SNP-S 3: Shared Network Pre-training and Significant Semantic Strengthening for Various Video-Text Tasks. IEEE Transactions on Circuits and Systems for Video Technology. [paper](https://ieeexplore.ieee.org/document/10214396) [code](https://github.com/alipay/Ant-Multi-Modal-Framework/tree/main/prj/snps3_vtp.)  
+4. **Guo, Q.**, Yao, K., & Chu, W. (2022, October). Switch-bert: Learning to model multimodal interactions by switching attention and input. In European Conference on Computer Vision (ECCV2022)(pp. 330-346). Cham: Springer Nature Switzerland. [paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136960325.pdf)  
+5. Hong, W., **Guo, Q.**, Zhang, W., Chen, J., & Chu, W. (2021). Lpsnet: A lightweight solution for fast panoptic segmentation. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR2021) (pp. 16746-16754). [paper](https://openaccess.thecvf.com/content/CVPR2021/html/Hong_LPSNet_A_Lightweight_Solution_for_Fast_Panoptic_Segmentation_CVPR_2021_paper.html)  
+6. Gan, T., Wang, X., Sun, Y., Wu, J., **Guo, Q.**, & Nie, L. (2023, October). Temporal Sentence Grounding in Streaming Videos. In Proceedings of the 31st ACM International Conference on Multimedia (MM2023)(pp. 4637-4646). [paper](https://dl.acm.org/doi/10.1145/3581783.3612120) [code](https://github.com/SCZwangxiao/TSGVs-MM2023)  
+7. Pan, T., Xu, F., Yang, X., He, S., Jiang, C., **Guo, Q.**, ... & Chu, W. (2023). Boundary-aware Backward-Compatible Representation via Adversarial Learning in Image Retrieval. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR2023)(pp. 15201-15210). [paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Pan_Boundary-Aware_Backward-Compatible_Representation_via_Adversarial_Learning_in_Image_Retrieval_CVPR_2023_paper.pdf) [code](https://github.com/Ashespt/AdvBCT.)  
+8. Zhang, W., Cheng, Y., Guo, X., **Guo, Q.**, Wang, J., Wang, Q., ... & Chu, W. (2020, April). Automatic car damage assessment system: Reading and understanding videos as professional insurance inspectors. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 34, No. 09, pp. 13646-13647). [paper](https://ojs.aaai.org/index.php/AAAI/article/view/7110)   
+9. Yao, N. M., **Guo, Q.** P., Qiao, F. C., Chen, H., & Wang, H. A. (2018). Robust facial expression recognition with generative adversarial networks. Acta Automatica Sinica, 44(5), 865-877.  
 [Full list of publications in Google Scholar.](https://scholar.google.com/citations?user=11HDEbkAAAAJ&hl=zh-CN)
 
 ## US Patents
@@ -54,9 +54,9 @@ Gan, T., Wang, Q., Dong, X., Ren, X., Nie, L., & **Guo, Q.<sup>*</sup>**. (2023,
 
 ##  Education
 
-Master of Engineering in Computer Application Technology | 2014-2017 | Institute of Software, Chinese Academy of Sciences  
-Bachelor of Engineering in Tele Communications Engineering | 2010-1014  |  Huazhong University of Science and Technology  
-Bachelor of Engineering in Business Management | 2010-1014 | Huazhong University of Science and Technology  
+Master of Engineering in Computer Application Technology   | 2014-2017 | Institute of Software, Chinese Academy of Sciences  
+Bachelor of Engineering in Tele Communications Engineering | 2010-1014 | Huazhong University of Science and Technology  
+Bachelor of Engineering in Business Management             | 2010-1014 | Huazhong University of Science and Technology  
 
 ## Award
 
@@ -65,15 +65,6 @@ Year | Award
 2024 | [Fudan University enterprise mentor](https://gs.fudan.edu.cn/1f/fe/c11107a663550/page.htm)
 2017 | [First place of ICDAR MLT Text Localization](https://rrc.cvc.uab.es/?ch=8&com=evaluation&task=1)
 2019 | [Third place of ICCV COCO Panoptic Segmentation Challenge](https://competitions.codalab.org/competitions/19507)
+2017 | [Ding Sun Bao - Shenzhen Fintech Innovation Award](https://developer.aliyun.com/article/814342) 
+2019 | [Li Pei Bao -  Fully automated claims settlement without intervention for the first time.](https://www.sohu.com/a/242140481_99940985) 
 
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
