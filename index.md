@@ -9,7 +9,7 @@ layout: default
 Hi! I am currently a senior algorithm engineer of Ant Group, leading a small team for research and development in multi-modal machine learning algorithm and framework development. Previously I received his master's degree at the Institute of Software, Chinese Academy of Sciences in 2017 and B.E. degree from Huazhong University of Science and Technology in 2014. My main interest is to design and deliver cognitive computing services, including computer vision, natural language understanding and multimodal machine learning. I have published in top-tier conferences and journals including CVPR, ECCV, AAAI and JAS, and served as a regular reviewer for CVPR2023/TPAMI/ICCV2023/CVPR2024/IJCAI2024/ECCV2024.
 
 ## News
-We are always actively recruiting Research Interns and FTEs! Welcome to [contact me](mailto:qingpei.gqp@antgroup.com) with your detailed CV! (常年招收科研实习生和全职职员！)
+We are always actively recruiting Research Interns and FTEs! Welcome to [contact me](mailto:qingpei.gqp@antgroup.com) with your detailed CV! (常年招收科研实习生和全职职员！)   
 [05/2024] One paper is accepted by ICML 2024! [paper](https://arxiv.org/abs/2401.02137)  
 [04/2024] One paper is accepted by IJCAI 2024!  
 [03/2024] One paper is accepted by SIGIR 2024! [paper](https://arxiv.org/abs/2401.17797) [code](https://github.com/alipay/Ant-Multi-Modal-Framework/tree/main/prj/M2_RAAP)  
