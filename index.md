@@ -4,12 +4,12 @@ Ant Group
 Email: [qingpei.gqp@antgroup.com](mailto:qingpei.gqp@antgroup.com)
 
 ## About Me
-Hi! I am currently a staff algorithm engineer of Ant Group, leading a team of over ten individuals for research and development in multi-modal LLMs. Previously I received my master's degree at the Institute of Software, Chinese Academy of Sciences in 2017 and B.E. degree from Huazhong University of Science and Technology in 2014. My main interest is to design and deliver cognitive computing services, including computer vision, visual language pretraining and multimodal video understanding. I have published in top-tier conferences and journals including CVPR/ICML/SIGIR/ECCV/IJCAI/AAAI, and served as a reviewer for TPAMI/CVPR2023/ICCV2023/CVPR2024/IJCAI2024/ECCV2024.
+Hi! I am currently a staff algorithm engineer of Ant Group, leading a team of over ten individuals for research and development in multi-modal LLMs. Previously I received my master's degree at the Institute of Software, Chinese Academy of Sciences in 2017 and B.E. degree from Huazhong University of Science and Technology in 2014. My main interest is to design and deliver cognitive computing services, including computer vision, visual language alignment and multimodal video understanding. I have published in top-tier conferences and journals including CVPR/ICML/SIGIR/ECCV/IJCAI/AAAI, and served as a reviewer for TPAMI/CVPR2023/ICCV2023/CVPR2024/IJCAI2024/ECCV2024.
 
 ## News
 We are always actively recruiting Research Interns and FTEs! Welcome to [contact me](mailto:qingpei.gqp@antgroup.com) with your detailed CV!
 [05/2024] One paper is accepted by ICML 2024! [paper](https://arxiv.org/abs/2401.02137)  
-[04/2024] One paper is accepted by IJCAI 2024!  
+[04/2024] One paper is accepted by IJCAI 2024! [paper](https://arxiv.org/abs/2308.10648)
 [03/2024] One paper is accepted by SIGIR 2024! [paper](https://arxiv.org/abs/2401.17797) [code](https://github.com/alipay/Ant-Multi-Modal-Framework/tree/main/prj/M2_RAAP)  
 [02/2024] One paper is accepted by CVPR2024! [paper](https://arxiv.org/abs/2310.00582) [code](https://github.com/SY-Xuan/Pink.)  
 
@@ -50,9 +50,9 @@ We are always actively recruiting Research Interns and FTEs! Welcome to [contact
 
 ##  Education
 
-Master of Engineering in Computer Application Technology     | 2014-2017 | Institute of Software, Chinese Academy of Sciences  
-Bachelor of Engineering in Tele Communications Engineering   | 2010-1014 | Huazhong University of Science and Technology  
-Bachelor of Engineering in Business Management               | 2010-1014 | Huazhong University of Science and Technology  
+Master of Computer Application Technology     | 2014-2017 | Institute of Software, Chinese Academy of Sciences  
+Bachelor of Tele Communications Engineering   | 2010-1014 | Huazhong University of Science and Technology  
+Bachelor of Business Management(Dual Degrees) | 2010-1014 | Huazhong University of Science and Technology  
 
 ## Honor
 
@@ -61,8 +61,8 @@ Year | Honor
 2024 | [Fudan University enterprise mentor](https://gs.fudan.edu.cn/1f/fe/c11107a663550/page.htm)
 2017 | [First place of ICDAR MLT Text Localization](https://rrc.cvc.uab.es/?ch=8&com=evaluation&task=1)
 2019 | [Third place of ICCV COCO Panoptic Segmentation Challenge](https://competitions.codalab.org/competitions/19507)
-2017 | [Ding Sun Bao - Shenzhen Fintech Innovation Award](https://developer.aliyun.com/article/814342) 
 2019 | [Li Pei Bao -  Fully automated claims settlement without intervention for the first time.](https://www.sohu.com/a/242140481_99940985) 
+2017 | [Ding Sun Bao - Shenzhen Fintech Innovation Award](https://developer.aliyun.com/article/814342) 
 2013 | National Scholarship
 
 
