@@ -63,4 +63,6 @@ Year | Award
 2019 | [Third place of ICCV COCO Panoptic Segmentation Challenge](https://competitions.codalab.org/competitions/19507)
 2017 | [Ding Sun Bao - Shenzhen Fintech Innovation Award](https://developer.aliyun.com/article/814342) 
 2019 | [Li Pei Bao -  Fully automated claims settlement without intervention for the first time.](https://www.sohu.com/a/242140481_99940985) 
+2013 | National Scholarship
+
 
