@@ -26,7 +26,7 @@ We are always actively recruiting Research Interns and FTEs! Welcome to [contact
 9. Yao, N. M., **Guo, Q.** P., Qiao, F. C., Chen, H., & Wang, H. A. (2018). Robust facial expression recognition with generative adversarial networks. Acta Automatica Sinica, 44(5), 865-877.  
 [Full list of publications in Google Scholar.](https://scholar.google.com/citations?user=11HDEbkAAAAJ&hl=zh-CN)
 
-## US Patents
+## Patents
 1. **Guo, Q.**, Chu W. Coding apparatuses, and data processing methods and apparatuses: U.S. Patent Application 18/348,122[P]. 2024-4-25.
 2. **Guo, Q.** Method and system for facilitating recognition of vehicle parts based on a neural network: U.S. Patent 11,475,660[P]. 2022-10-18.
 3. 一种鲁棒的基于深度学习的连续情绪跟踪方法-CN106919903B
@@ -50,9 +50,9 @@ We are always actively recruiting Research Interns and FTEs! Welcome to [contact
 
 ##  Education
 
-Master of Engineering in Computer Application Technology   | 2014-2017 | Institute of Software, Chinese Academy of Sciences  
-Bachelor of Engineering in Tele Communications Engineering | 2010-1014 | Huazhong University of Science and Technology  
-Bachelor of Engineering in Business Management             | 2010-1014 | Huazhong University of Science and Technology  
+Master of Engineering in Computer Application Technology     | 2014-2017 | Institute of Software, Chinese Academy of Sciences  
+Bachelor of Engineering in Tele Communications Engineering   | 2010-1014 | Huazhong University of Science and Technology  
+Bachelor of Engineering in Business Management               | 2010-1014 | Huazhong University of Science and Technology  
 
 ## Award
 
