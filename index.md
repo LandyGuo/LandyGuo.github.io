@@ -4,10 +4,10 @@ Ant Group
 Email: [qingpei.gqp@antgroup.com](mailto:qingpei.gqp@antgroup.com)
 
 ## About Me
-Hi! I am currently a senior algorithm engineer of Ant Group, leading a small team for research and development in multi-modal machine learning algorithm and framework development. Previously I received his master's degree at the Institute of Software, Chinese Academy of Sciences in 2017 and B.E. degree from Huazhong University of Science and Technology in 2014. My main interest is to design and deliver cognitive computing services, including computer vision, natural language understanding and multimodal machine learning. I have published in top-tier conferences and journals including CVPR, ECCV, AAAI and JAS, and served as a regular reviewer for CVPR2023/TPAMI/ICCV2023/CVPR2024/IJCAI2024/ECCV2024.
+Hi! I am currently a staff algorithm engineer of Ant Group, leading a team of over ten individuals for research and development in multi-modal LLMs. Previously I received my master's degree at the Institute of Software, Chinese Academy of Sciences in 2017 and B.E. degree from Huazhong University of Science and Technology in 2014. My main interest is to design and deliver cognitive computing services, including computer vision, visual language pretraining and multimodal video understanding. I have published in top-tier conferences and journals including CVPR/ICML/SIGIR/ECCV/IJCAI/AAAI, and served as a reviewer for TPAMI/CVPR2023/ICCV2023/CVPR2024/IJCAI2024/ECCV2024.
 
 ## News
-We are always actively recruiting Research Interns and FTEs! Welcome to [contact me](mailto:qingpei.gqp@antgroup.com) with your detailed CV! (常年招收科研实习生和全职职员！)   
+We are always actively recruiting Research Interns and FTEs! Welcome to [contact me](mailto:qingpei.gqp@antgroup.com) with your detailed CV!
 [05/2024] One paper is accepted by ICML 2024! [paper](https://arxiv.org/abs/2401.02137)  
 [04/2024] One paper is accepted by IJCAI 2024!  
 [03/2024] One paper is accepted by SIGIR 2024! [paper](https://arxiv.org/abs/2401.17797) [code](https://github.com/alipay/Ant-Multi-Modal-Framework/tree/main/prj/M2_RAAP)  
@@ -54,9 +54,9 @@ Master of Engineering in Computer Application Technology     | 2014-2017 | Insti
 Bachelor of Engineering in Tele Communications Engineering   | 2010-1014 | Huazhong University of Science and Technology  
 Bachelor of Engineering in Business Management               | 2010-1014 | Huazhong University of Science and Technology  
 
-## Award
+## Honor
 
-Year | Award 
+Year | Honor 
 -----|-------
 2024 | [Fudan University enterprise mentor](https://gs.fudan.edu.cn/1f/fe/c11107a663550/page.htm)
 2017 | [First place of ICDAR MLT Text Localization](https://rrc.cvc.uab.es/?ch=8&com=evaluation&task=1)
