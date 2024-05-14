@@ -9,10 +9,10 @@ Hi! I am currently a staff algorithm engineer of Ant Group, leading a team of ov
 ## News
 We are always actively recruiting Research Interns and FTEs! Welcome to [contact me](mailto:qingpei.gqp@antgroup.com) with your detailed CV!
 
-[05/2024] One paper is accepted by ICML 2024! [paper](https://arxiv.org/abs/2401.02137)  
-[04/2024] One paper is accepted by IJCAI 2024! [paper](https://arxiv.org/abs/2308.10648)    
-[03/2024] One paper is accepted by SIGIR 2024! [paper](https://arxiv.org/abs/2401.17797) [code](https://github.com/alipay/Ant-Multi-Modal-Framework/tree/main/prj/M2_RAAP)  
-[02/2024] One paper is accepted by CVPR2024! [paper](https://arxiv.org/abs/2310.00582) [code](https://github.com/SY-Xuan/Pink.)  
+[05/2024] Our paper has been accepted by ICML 2024! [paper](https://arxiv.org/abs/2401.02137)  
+[04/2024] Our paper has been accepted by IJCAI 2024! [paper](https://arxiv.org/abs/2308.10648)    
+[03/2024] Our paper has been accepted by SIGIR 2024! [paper](https://arxiv.org/abs/2401.17797) [code](https://github.com/alipay/Ant-Multi-Modal-Framework/tree/main/prj/M2_RAAP)  
+[02/2024] Our paper has been accepted by CVPR2024! [paper](https://arxiv.org/abs/2310.00582) [code](https://github.com/SY-Xuan/Pink.)  
 
 ## Selected Publications([Complete List](https://scholar.google.com/citations?user=11HDEbkAAAAJ))  
 (* is the corresponding author, # is the co-first author)  
@@ -51,8 +51,8 @@ We are always actively recruiting Research Interns and FTEs! Welcome to [contact
 ##  Education
 
 Master of Computer Application Technology     | 2014-2017 | Institute of Software, Chinese Academy of Sciences  
-Bachelor of Tele Communications Engineering   | 2010-1014 | Huazhong University of Science and Technology  
-Bachelor of Business Management(Dual Degrees) | 2010-1014 | Huazhong University of Science and Technology  
+Bachelor of Tele Communications Engineering   | 2010-2014 | Huazhong University of Science and Technology  
+Bachelor of Business Management(Dual Degrees) | 2010-2014 | Huazhong University of Science and Technology  
 
 ## Awarded Honors
 
