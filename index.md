@@ -59,6 +59,7 @@ Bachelor of Business Management(Dual Degrees) | 2010-2014 | Huazhong University 
 
 Year | Honor 
 -----|-------
+2024 | Extreme Ownership - Group Annual Awards
 2024 | [Fudan University enterprise mentor](https://gs.fudan.edu.cn/1f/fe/c11107a663550/page.htm)
 2017 | [First place of ICDAR MLT Text Localization](https://rrc.cvc.uab.es/?ch=8&com=evaluation&task=1)
 2019 | [Third place of ICCV COCO Panoptic Segmentation Challenge](https://competitions.codalab.org/competitions/19507)
