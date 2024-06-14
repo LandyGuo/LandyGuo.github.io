@@ -7,9 +7,10 @@ Email: [qingpei.gqp@antgroup.com](mailto:qingpei.gqp@antgroup.com)
 Hi! I am currently a staff algorithm engineer of Ant Group, leading a team of over ten individuals for research and development in multi-modal LLMs. Previously I received my master's degree at the Institute of Software, Chinese Academy of Sciences in 2017 and B.E. degree from Huazhong University of Science and Technology in 2014. My main interest is to design and deliver cognitive computing services, including computer vision, visual language alignment and multimodal video understanding. I have published in top-tier conferences and journals including CVPR/ICML/SIGIR/ECCV/IJCAI/AAAI, and served as a reviewer for TPAMI/CVPR2023/ICCV2023/CVPR2024/IJCAI2024/ECCV2024.
 
 ## News
-We are always actively recruiting Research Interns and FTEs! Welcome to [contact me](mailto:qingpei.gqp@antgroup.com) with your detailed CV!
+We are always actively recruiting Research Interns and FTEs! Feel free to [contact me](mailto:qingpei.gqp@antgroup.com) with your detailed CV!
 
-[05/2024] My Open Lecture about [Multimodal Video retrieval](https://mp.weixin.qq.com/s/TyT55rGR1lYUocXgWv5eZg)  
+[05/2024] My Open Lecture about [Multimodal Video retrieval](https://mp.weixin.qq.com/s/TyT55rGR1lYUocXgWv5eZg) 
+[06/2024] Our paper has been accepted by ACL 2024!
 [05/2024] Our paper has been accepted by ICML 2024! [paper](https://arxiv.org/abs/2401.02137)  
 [04/2024] Our paper has been accepted by IJCAI 2024! [paper](https://arxiv.org/abs/2308.10648)    
 [03/2024] Our paper has been accepted by SIGIR 2024! [paper](https://arxiv.org/abs/2401.17797) [code](https://github.com/alipay/Ant-Multi-Modal-Framework/tree/main/prj/M2_RAAP)  
@@ -51,8 +52,8 @@ We are always actively recruiting Research Interns and FTEs! Welcome to [contact
 
 ##  Education
 
-Master of Computer Application Technology     | 2014-2017 | Institute of Software, Chinese Academy of Sciences  
-Bachelor of Tele Communications Engineering   | 2010-2014 | Huazhong University of Science and Technology  
+Master of Computer Applied Technology         | 2014-2017 | Institute of Software, Chinese Academy of Sciences  
+Bachelor of Telecommunications Engineering    | 2010-2014 | Huazhong University of Science and Technology  
 Bachelor of Business Management(Dual Degrees) | 2010-2014 | Huazhong University of Science and Technology  
 
 ## Awarded Honors
