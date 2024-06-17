@@ -13,7 +13,7 @@ Email: [gqp.hust@gmail.com](mailto:gqp.hust@gmail.com)
       Hi! I am currently a staff algorithm engineer of Ant Group, leading a team of over ten individuals for research and development in multi-modal LLMs. Previously I received my master's degree at the Institute of Software, Chinese Academy of Sciences in 2017 and B.E. degree from Huazhong University of Science and Technology in 2014. My main interest is to design and deliver cognitive computing services, including computer vision, visual language alignment and multimodal video understanding. I have published in top-tier conferences and journals including CVPR/ICML/SIGIR/ECCV/IJCAI/AAAI, and served as a reviewer for TPAMI/CVPR2023/ICCV2023/CVPR2024/IJCAI2024/ECCV2024.
     </td>
     <td>
-      <img class="profile-picture" src="picture.jpg" width=600 align="right">
+      <img class="profile-picture" src="picture.jpg" width=500 align="right">
     </td>
   </tr>
 </table>
