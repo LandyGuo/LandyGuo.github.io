@@ -4,7 +4,7 @@
 Ant Group  
 Email: [gqp.hust@gmail.com](mailto:gqp.hust@gmail.com)
     
-<img class="profile-picture" src="picture.jpg" width=400 height=400 align="right">
+<img class="profile-picture" src="gqp.jpg" width=400 height=400 align="right">
 
 
 ## About Me
