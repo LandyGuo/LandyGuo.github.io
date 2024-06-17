@@ -1,10 +1,10 @@
 
 ## Qingpei Guo
 
-     Ant Group  
-     Email: [gqp.hust@gmail.com](mailto:gqp.hust@gmail.com)
+Ant Group  
+Email: [gqp.hust@gmail.com](mailto:gqp.hust@gmail.com)
     
-    <img class="profile-picture" src="picture.jpg" align="right">
+<img class="profile-picture" src="picture.jpg" align="right">
 
 
 ## About Me
