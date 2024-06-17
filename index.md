@@ -1,17 +1,10 @@
 
 ## Qingpei Guo
 
-<table>
-  <tr>
-    <td width=600>
      Ant Group  
      Email: [gqp.hust@gmail.com](mailto:gqp.hust@gmail.com)
-    </td>
-    <td>
-      <img class="profile-picture" src="picture.jpg" align="right">
-    </td>
-  </tr>
-</table>
+    
+    <img class="profile-picture" src="picture.jpg" align="right">
 
 
 ## About Me
