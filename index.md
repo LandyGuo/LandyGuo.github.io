@@ -69,7 +69,7 @@ Year | Honor
 2017 | [First place of ICDAR MLT Text Localization](https://rrc.cvc.uab.es/?ch=8&com=evaluation&task=1)
 2019 | [Third place of ICCV COCO Panoptic Segmentation Challenge](https://competitions.codalab.org/competitions/19507)
 2019 | [Li Pei Bao -  Fully automated claims settlement without intervention for the first time.](https://www.sohu.com/a/242140481_99940985) 
-2017 | [Ding Sun Bao - Shenzhen Fintech Innovation Award](https://developer.aliyun.com/article/814342) 
+2017 | [Ding Sun Bao](https://developer.aliyun.com/article/814342) - [Shenzhen Fintech Innovation Award](https://www.hcwgx.com/1974.html)
 2013 | National Scholarship
 
 
