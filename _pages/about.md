@@ -17,7 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# About me
 I am currently a staff algorithm engineer of Ant Group, leading a team of over ten individuals for research and development in multi-modal LLMs. My main interest is to design and deliver cognitive computing services, including computer vision, visual language alignment and multimodal video understanding. I have published in top-tier conferences and journals, including CVPR/ICML/SIGIR/ECCV/IJCAI/AAAI, and served as a reviewer for TPAMI/CVPR2023/ICCV2023/CVPR2024/IJCAI2024/ECCV2024.
+
+I am currently looking for full-time algorithm engineers and research interns. Please send me an email if you are interested!
 
 
 # 🔥 News
