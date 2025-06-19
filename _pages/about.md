@@ -26,9 +26,8 @@ I am currently looking for full-time algorithm engineers and research interns. P
 # 🔥 News
 - *2025.05*: &nbsp;🎉🎉 We propose [Ming-Omni](https://arxiv.org/pdf/2506.09344), a unified multimodal model capable of processing images, text, audio, and video, while demonstrating strong proficiency in both speech and image generation. 
 
-# 📝 Selected Publications (* is for Corresponding author)   
-
-## [Complete publication list](https://scholar.google.com/citations?hl=zh-CN&user=11HDEbkAAAAJ&view_op=list_works&sortby=pubdate)
+# 📝 Selected Publications [Complete publication list](https://scholar.google.com/citations?hl=zh-CN&user=11HDEbkAAAAJ&view_op=list_works&sortby=pubdate)
+## (* : Corresponding author)   
 
 ### Unified multimodal model 
 
