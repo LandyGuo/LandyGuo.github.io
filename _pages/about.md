@@ -20,17 +20,17 @@ redirect_from:
 # About me
 I am currently a staff algorithm engineer of Ant Group, leading a team of over ten individuals for research and development in multi-modal LLMs. My main interest is to design and deliver cognitive computing services, including computer vision, visual language alignment and multimodal video understanding. I have published in top-tier conferences and journals, including CVPR/ICML/SIGIR/ECCV/IJCAI/AAAI, and served as a reviewer for TPAMI/CVPR2023/ICCV2023/CVPR2024/IJCAI2024/ECCV2024.
 
-I am currently looking for full-time algorithm engineers and research interns. Please send me an email if you are interested!
+I am currently looking for full-time algorithm engineers and research interns. Please send me an [email](qingpei.gqp@antgroup.com) if you are interested!
 
 
 # 🔥 News
 - *2025.05*: &nbsp;🎉🎉 We propose [Ming-Omni](https://arxiv.org/pdf/2506.09344), a unified multimodal model capable of processing images, text, audio, and video, while demonstrating strong proficiency in both speech and image generation. 
 
-# 📝 Publications (* is for Corresponding author)
+# 📝 Selected Publications (* is for Corresponding author)   
 
-## [Complete Publications](https://scholar.google.com/citations?hl=zh-CN&user=11HDEbkAAAAJ&view_op=list_works&sortby=pubdate)
+## [Complete publication list](https://scholar.google.com/citations?hl=zh-CN&user=11HDEbkAAAAJ&view_op=list_works&sortby=pubdate)
 
-## Unified multimodal model 
+### Unified multimodal model 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/CVPR25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -50,7 +50,7 @@ Yudong Han, **Qingpei Guo<sub>*</sub>**, Liyuan Pan, Liu Liu, Yu Guan, Ming Yang
 </div>
 </div>
 
-## Multimodal video understanding
+### Multimodal video understanding
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2024</div><img src='images/SIGIR2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -84,7 +84,7 @@ Shiyu Xuan1, **Qingpei Guo**, Ming Yang, Shiliang Zhang
 </div>
 </div>
 
-## Application of MLLM
+### Application of MLLM
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/ACL2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
