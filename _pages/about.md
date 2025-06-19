@@ -35,9 +35,9 @@ I am currently looking for full-time algorithm engineers and research interns. P
 
 [Ming-Omni: A Unified Multimodal Model for Perception and Generation](https://arxiv.org/pdf/2506.09344)
 
-**Project lead**
+**Project lead**.
 
-[**Project**](https://github.com/inclusionAI/Ming) \| [![](https://img.shields.io/github/stars/inclusionAI/Ming?style=social&label=Stars)]
+[**Project**](https://github.com/inclusionAI/Ming) \| ![](https://img.shields.io/github/stars/inclusionAI/Ming?style=social&label=Stars)
 </div>
 </div>
 
@@ -60,7 +60,7 @@ I am currently looking for full-time algorithm engineers and research interns. P
 
  Muzhi Zhu, Yuzhuo Tian, Hao Chen, Chunluan Zhou, **Qingpei Guo**<sup><b>*</b></sup>, Yang Liu, Ming Yang, Chunhua Shen
 
-  [**Code**]\| [![](https://img.shields.io/github/stars/aim-uofa/SegAgent?style=social&label=Stars)]
+  [**Code**]\| ![](https://img.shields.io/github/stars/aim-uofa/SegAgent?style=social&label=Stars)
 </div>
 </div>
 
@@ -73,7 +73,7 @@ I am currently looking for full-time algorithm engineers and research interns. P
 
 Yudong Han, **Qingpei Guo**<sup><b>*</b></sup>, Liyuan Pan, Liu Liu, Yu Guan, Ming Yang
 
- [**Code**]\| [![](https://img.shields.io/github/stars/Simon98-AI/DynFocus?style=social&label=Stars)]
+ [**Code**]\| ![](https://img.shields.io/github/stars/Simon98-AI/DynFocus?style=social&label=Stars)
 </div>
 </div>
 
@@ -111,7 +111,7 @@ Yabing Wang, Zhuotao Tian, **Qingpei Guo**, Zheng Qin, Sanping Zhou, Ming Yang, 
 
 Shiyu Xuan1, **Qingpei Guo**, Ming Yang, Shiliang Zhang
 
-[**Code**]\| [![](https://img.shields.io/github/stars/SY-Xuan/Pink?style=social&label=Stars)]
+[**Code**]\| ![](https://img.shields.io/github/stars/SY-Xuan/Pink?style=social&label=Stars)
 </div>
 </div>
 
