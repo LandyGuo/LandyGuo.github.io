@@ -27,6 +27,8 @@ I am currently a staff algorithm engineer of Ant Group, leading a team of over t
 
 # 📝 Publications (* is for Corresponding author)
 
+# [Complete Publications](https://scholar.google.com/citations?hl=zh-CN&user=11HDEbkAAAAJ&view_op=list_works&sortby=pubdate)
+
 # Unified multimodal model 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/CVPR25.png' alt="sym" width="100%"></div></div>
@@ -41,14 +43,58 @@ Yudong Han, **Qingpei Guo<sub>*</sub>**, Liyuan Pan, Liu Liu, Yu Guan, Ming Yang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/CVPR25_1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SegAgent: Exploring Pixel Understanding Capabilities in MLLMs by Imitating HumanAnnotator Trajectories][https://openaccess.thecvf.com/content/CVPR2025/papers/Zhu_SegAgent_Exploring_Pixel_Understanding_Capabilities_in_MLLMs_by_Imitating_Human_CVPR_2025_paper.pdf)
+[SegAgent: Exploring Pixel Understanding Capabilities in MLLMs by Imitating HumanAnnotator Trajectories](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhu_SegAgent_Exploring_Pixel_Understanding_Capabilities_in_MLLMs_by_Imitating_Human_CVPR_2025_paper.pdf)
 
  Muzhi Zhu, Yuzhuo Tian, Hao Chen, Chunluan Zhou, **Qingpei Guo<sub>*</sub>**, Yang Liu, Ming Yang, Chunhua Shen
 </div>
 </div>
 
+# Multimodal video understanding
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2024</div><img src='images/SIGIR2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[M2-RAAP: A Multi-Modal Recipe for Advancing Adaptation-based Pre-training towards Effective and Efficient Zero-shot Video-text Retrieval](https://dl.acm.org/doi/pdf/10.1145/3626772.3657833)
+ XingningDong, ZipengFeng, ChunluanZhou, XuzhengYu, MingYang, **Qingpei Guo<sub>*</sub>**
+ </div>
+</div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/ICML2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[SyCoCa: Symmetrizing Contrastive Captioners with Attentive Masking for Multimodal Alignment](https://dl.acm.org/doi/10.5555/3692070.3693455)
+Ziping Ma, Furong Xu, Jian Liu, Ming Yang, **Qingpei Guo<sub>*</sub>**
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS 2024</div><img src='images/NIPS2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Referencing Where to Focus: Improving Visual Grounding with Referential Query](https://neurips.cc/virtual/2024/poster/93628)
+Yabing Wang, Zhuotao Tian, **Qingpei Guo**, Zheng Qin, Sanping Zhou, Ming Yang, Le Wang
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CVPR2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Pink: Unveiling the Power of Referential Comprehension for Multi-modal LLMs](https://openaccess.thecvf.com/content/CVPR2024/papers/Xuan_Pink_Unveiling_the_Power_of_Referential_Comprehension_for_Multi-modal_LLMs_CVPR_2024_paper.pdf)
+Shiyu Xuan1, **Qingpei Guo**, Ming Yang, Shiliang Zhang
+</div>
+</div>
+
+# Application of MLLM
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/ACL2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[HOTVCOM: Generating buzzworthy comments for videos](https://aclanthology.org/2024.findings-acl.130.pdf)
+ Yuyan Chen, Yiwen Qian, Songzhou Yan, Jiyuan Jia, Zhixu Li, Yanghua Xiao, Xiaobo Li, Aaron Xuxiang Tian, Ming Yang, **Qingpei Guo<sub>*</sub>**
+</div>
+</div>
+
+# 💬 Invited Talks
+- *2024.08*, [My speech about our model: Ming-Omni](https://www.isc.org.cn/article/21390285410922496.html)
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -58,9 +104,6 @@ Yudong Han, **Qingpei Guo<sub>*</sub>**, Liyuan Pan, Liu Liu, Yu Guan, Ming Yang
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
