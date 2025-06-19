@@ -59,6 +59,8 @@ I am currently looking for full-time algorithm engineers and research interns. P
 [SegAgent: Exploring Pixel Understanding Capabilities in MLLMs by Imitating HumanAnnotator Trajectories](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhu_SegAgent_Exploring_Pixel_Understanding_Capabilities_in_MLLMs_by_Imitating_Human_CVPR_2025_paper.pdf)
 
  Muzhi Zhu, Yuzhuo Tian, Hao Chen, Chunluan Zhou, **Qingpei Guo**<sup><b>*</b></sup>, Yang Liu, Ming Yang, Chunhua Shen
+
+  [**Code**]\| [![](https://img.shields.io/github/stars/aim-uofa/SegAgent?style=social&label=Stars)]
 </div>
 </div>
 
@@ -70,6 +72,8 @@ I am currently looking for full-time algorithm engineers and research interns. P
 [DynFocus: Dynamic Cooperative Network Empowers LLMs with Video Understanding](https://openaccess.thecvf.com/content/CVPR2025/papers/Han_DynFocus_Dynamic_Cooperative_Network_Empowers_LLMs_with_Video_Understanding_CVPR_2025_paper.pdf)
 
 Yudong Han, **Qingpei Guo**<sup><b>*</b></sup>, Liyuan Pan, Liu Liu, Yu Guan, Ming Yang
+
+ [**Code**]\| [![](https://img.shields.io/github/stars/Simon98-AI/DynFocus?style=social&label=Stars)]
 </div>
 </div>
 
@@ -106,6 +110,8 @@ Yabing Wang, Zhuotao Tian, **Qingpei Guo**, Zheng Qin, Sanping Zhou, Ming Yang, 
 [Pink: Unveiling the Power of Referential Comprehension for Multi-modal LLMs](https://openaccess.thecvf.com/content/CVPR2024/papers/Xuan_Pink_Unveiling_the_Power_of_Referential_Comprehension_for_Multi-modal_LLMs_CVPR_2024_paper.pdf)
 
 Shiyu Xuan1, **Qingpei Guo**, Ming Yang, Shiliang Zhang
+
+[**Code**]\| [![](https://img.shields.io/github/stars/SY-Xuan/Pink?style=social&label=Stars)]
 </div>
 </div>
 
