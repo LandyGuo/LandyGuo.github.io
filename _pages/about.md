@@ -30,6 +30,16 @@ I am currently looking for full-time algorithm engineers and research interns. P
 ### (* : Corresponding author)   
 
 - ## Unified multimodal model 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Ming.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Ming-Omni: A Unified Multimodal Model for Perception and Generation](https://arxiv.org/pdf/2506.09344)
+
+**Project lead**
+
+[**Project**](https://github.com/inclusionAI/Ming) \| [![](https://img.shields.io/github/stars/inclusionAI/Ming?style=social&label=Stars)]
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/M2omni.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -40,14 +50,7 @@ I am currently looking for full-time algorithm engineers and research interns. P
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Ming.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Ming-Omni: A Unified Multimodal Model for Perception and Generation](https://arxiv.org/pdf/2506.09344)
-
-**Project lead**
-</div>
-</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/CVPR25_1.png' alt="sym" width="100%"></div></div>
