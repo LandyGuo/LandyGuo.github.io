@@ -27,9 +27,9 @@ I am currently a staff algorithm engineer of Ant Group, leading a team of over t
 
 # 📝 Publications (* is for Corresponding author)
 
-# [Complete Publications](https://scholar.google.com/citations?hl=zh-CN&user=11HDEbkAAAAJ&view_op=list_works&sortby=pubdate)
+## [Complete Publications](https://scholar.google.com/citations?hl=zh-CN&user=11HDEbkAAAAJ&view_op=list_works&sortby=pubdate)
 
-# Unified multimodal model 
+## Unified multimodal model 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/CVPR25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -49,7 +49,7 @@ Yudong Han, **Qingpei Guo<sub>*</sub>**, Liyuan Pan, Liu Liu, Yu Guan, Ming Yang
 </div>
 </div>
 
-# Multimodal video understanding
+## Multimodal video understanding
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2024</div><img src='images/SIGIR2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -83,7 +83,7 @@ Shiyu Xuan1, **Qingpei Guo**, Ming Yang, Shiliang Zhang
 </div>
 </div>
 
-# Application of MLLM
+## Application of MLLM
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/ACL2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -94,16 +94,26 @@ Shiyu Xuan1, **Qingpei Guo**, Ming Yang, Shiliang Zhang
 </div>
 
 # 💬 Invited Talks
-- *2024.08*, [My speech about our model: Ming-Omni](https://www.isc.org.cn/article/21390285410922496.html)
+- *2024.07*, My speech about our model: [Ming-Omni](https://www.isc.org.cn/article/21390285410922496.html)
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2014 - 2017*,   Master of Computer Applied Technology           [Institute of Software, Chinese Academy of Sciences](http://english.is.cas.cn/). 
+- *2010 - 2014*,   Bachelor of Telecommunications Engineering      [Huazhong  University of Science and Technology](https://english.hust.edu.cn/)
+- *2010 - 2014*,   Bachelor of Business Management (Dual Degrees)  [Huazhong  University of Science and Technology](https://english.hust.edu.cn/)
 
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Fellowships & Awards
+- Master Enterprise Supervisor of Chinese Academy of Sciences the Enterprise mentor.      
+- [Master Enterprise Supervisor of Fudan University.](https://gs.fudan.edu.cn/1f/fe/c11107a663550/page.htm)                                                                             
+- [The first place of ICDAR MLT Text Localization.](https://rrc.cvc.uab.es/?ch=8&com=evaluation&task=1)                                                                                            
+- [Third place in ICCV COCO Panoptic Segmentation Challenge.](https://competitions.codalab.org/competitions/19507)                                                                      
+- [Project Li Pei Bao - Fully automated claims settlement without intervention for the first time. ](https://www.sohu.com/a/242140481_99940985)                            
+- [Project Ding Sun Bao - Shenzhen Fintech Innovation Award.](https://developer.aliyun.com/article/814342)    
+- Reviewer of TPAMI/CVPR/ICCV/IJCAI/ECCV.   
+- China National Scholarship.            
+- Extreme Ownership Award- Ant Group Annual Awards
+
