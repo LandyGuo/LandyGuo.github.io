@@ -20,7 +20,7 @@ redirect_from:
 # About me
 I am currently a staff algorithm engineer of Ant Group, leading a team of over ten individuals for research and development in multi-modal LLMs. My main interest is to design and deliver cognitive computing services, including computer vision, visual language alignment and multimodal video understanding. I have published in top-tier conferences and journals, including CVPR/ICML/SIGIR/ECCV/IJCAI/AAAI, and served as a reviewer for TPAMI/CVPR2023/ICCV2023/CVPR2024/IJCAI2024/ECCV2024.
 
-I am currently looking for full-time algorithm engineers and research interns. Please send me an email](qingpei.gqp@antgroup.com) with your CV if you are interested!
+I am currently looking for full-time algorithm engineers and research interns. Please send me an [email](qingpei.gqp@antgroup.com) with your CV if you are interested!
 
 
 # 🔥 News
@@ -94,7 +94,7 @@ Shiyu Xuan1, **Qingpei Guo**, Ming Yang, Shiliang Zhang
 </div>
 
 # 💬 Invited Talks
-- *2024.07*, My speech about our model [Ming-Omni](https://www.isc.org.cn/article/21390285410922496.html)
+- *2024.07*, My speech about our model [Ming-Omni](https://www.isc.org.cn/article/21390285410922496.html).
 
 # 📖 Educations
 - *2014 - 2017*,   Master of Computer Applied Technology           [Institute of Software, Chinese Academy of Sciences](http://english.is.cas.cn/). 
