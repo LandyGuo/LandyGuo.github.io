@@ -36,7 +36,7 @@ I am currently looking for full-time algorithm engineers and research interns. P
 
 [DynFocus: Dynamic Cooperative Network Empowers LLMs with Video Understanding](https://openaccess.thecvf.com/content/CVPR2025/papers/Han_DynFocus_Dynamic_Cooperative_Network_Empowers_LLMs_with_Video_Understanding_CVPR_2025_paper.pdf)
 
-Yudong Han, **Qingpei Guo<sup>\*</sup>**, Liyuan Pan, Liu Liu, Yu Guan, Ming Yang
+Yudong Han, **Qingpei Guo**<sup><b>*</b></sup>, Liyuan Pan, Liu Liu, Yu Guan, Ming Yang
 </div>
 </div>
 
@@ -45,7 +45,7 @@ Yudong Han, **Qingpei Guo<sup>\*</sup>**, Liyuan Pan, Liu Liu, Yu Guan, Ming Yan
 
 [SegAgent: Exploring Pixel Understanding Capabilities in MLLMs by Imitating HumanAnnotator Trajectories](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhu_SegAgent_Exploring_Pixel_Understanding_Capabilities_in_MLLMs_by_Imitating_Human_CVPR_2025_paper.pdf)
 
- Muzhi Zhu, Yuzhuo Tian, Hao Chen, Chunluan Zhou, **Qingpei Guo<sup>*</sup>**, Yang Liu, Ming Yang, Chunhua Shen
+ Muzhi Zhu, Yuzhuo Tian, Hao Chen, Chunluan Zhou, **Qingpei Guo**<sup><b>*</b></sup>, Yang Liu, Ming Yang, Chunhua Shen
 </div>
 </div>
 
@@ -55,7 +55,7 @@ Yudong Han, **Qingpei Guo<sup>\*</sup>**, Liyuan Pan, Liu Liu, Yu Guan, Ming Yan
 <div class='paper-box-text' markdown="1">
   
 [M2-RAAP: A Multi-Modal Recipe for Advancing Adaptation-based Pre-training towards Effective and Efficient Zero-shot Video-text Retrieval](https://dl.acm.org/doi/pdf/10.1145/3626772.3657833)
- XingningDong, ZipengFeng, ChunluanZhou, XuzhengYu, MingYang, **Qingpei Guo<sup>*</sup>**
+ XingningDong, ZipengFeng, ChunluanZhou, XuzhengYu, MingYang, **Qingpei Guo**<sup><b>*</b></sup>
  </div>
 </div>
 
@@ -63,7 +63,7 @@ Yudong Han, **Qingpei Guo<sup>\*</sup>**, Liyuan Pan, Liu Liu, Yu Guan, Ming Yan
 <div class='paper-box-text' markdown="1">
   
 [SyCoCa: Symmetrizing Contrastive Captioners with Attentive Masking for Multimodal Alignment](https://dl.acm.org/doi/10.5555/3692070.3693455)
-Ziping Ma, Furong Xu, Jian Liu, Ming Yang, **Qingpei Guo<sup>*</sup>**
+Ziping Ma, Furong Xu, Jian Liu, Ming Yang, **Qingpei Guo**<sup><b>*</b></sup>
 </div>
 </div>
 
@@ -89,7 +89,7 @@ Shiyu Xuan1, **Qingpei Guo**, Ming Yang, Shiliang Zhang
 <div class='paper-box-text' markdown="1">
   
 [HOTVCOM: Generating buzzworthy comments for videos](https://aclanthology.org/2024.findings-acl.130.pdf)
- Yuyan Chen, Yiwen Qian, Songzhou Yan, Jiyuan Jia, Zhixu Li, Yanghua Xiao, Xiaobo Li, Aaron Xuxiang Tian, Ming Yang, **Qingpei Guo<sup>*</sup>**
+ Yuyan Chen, Yiwen Qian, Songzhou Yan, Jiyuan Jia, Zhixu Li, Yanghua Xiao, Xiaobo Li, Aaron Xuxiang Tian, Ming Yang, **Qingpei Guo**<sup><b>*</b></sup>
 </div>
 </div>
 
