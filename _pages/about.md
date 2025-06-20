@@ -26,8 +26,9 @@ I am currently looking for full-time algorithm engineers and research interns. P
 # 🔥 News
 - *2025.05*: &nbsp;🎉🎉 We proposed [Ming-Omni](https://arxiv.org/pdf/2506.09344) \| [![](https://img.shields.io/github/stars/inclusionAI/Ming?style=social&label=Stars)], a unified multimodal model capable of processing images, text, audio, and video, while demonstrating strong proficiency in both speech and image generation. 
 
-# 📝 Selected Publications ([Complete publication list](https://scholar.google.com/citations?hl=zh-CN&user=11HDEbkAAAAJ&view_op=list_works&sortby=pubdate))
-### (* : Corresponding author)   
+# 📝 Selected Publications
+
+## [Complete publication list](https://scholar.google.com/citations?hl=zh-CN&user=11HDEbkAAAAJ&view_op=list_works&sortby=pubdate)
 
 - ## Unified multimodal model 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Ming.png' alt="sym" width="100%"></div></div>
@@ -51,14 +52,14 @@ I am currently looking for full-time algorithm engineers and research interns. P
 </div>
 
 
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/CVPR25_1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SegAgent: Exploring Pixel Understanding Capabilities in MLLMs by Imitating HumanAnnotator Trajectories](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhu_SegAgent_Exploring_Pixel_Understanding_Capabilities_in_MLLMs_by_Imitating_Human_CVPR_2025_paper.pdf)
 
  Muzhi Zhu, Yuzhuo Tian, Hao Chen, Chunluan Zhou, **Qingpei Guo**<sup><b>*</b></sup>, Yang Liu, Ming Yang, Chunhua Shen
+
+ **Corresponding author**
 
   [**Code**](https://github.com/aim-uofa/SegAgent) \| ![](https://img.shields.io/github/stars/aim-uofa/SegAgent?style=social&label=Stars)
 </div>
@@ -73,6 +74,8 @@ I am currently looking for full-time algorithm engineers and research interns. P
 
 Yudong Han, **Qingpei Guo**<sup><b>*</b></sup>, Liyuan Pan, Liu Liu, Yu Guan, Ming Yang
 
+ **Corresponding author**
+
  [**Code**](https://github.com/Simon98-AI/DynFocus) \| ![](https://img.shields.io/github/stars/Simon98-AI/DynFocus?style=social&label=Stars)
 </div>
 </div>
@@ -83,6 +86,9 @@ Yudong Han, **Qingpei Guo**<sup><b>*</b></sup>, Liyuan Pan, Liu Liu, Yu Guan, Mi
 [M2-RAAP: A Multi-Modal Recipe for Advancing Adaptation-based Pre-training towards Effective and Efficient Zero-shot Video-text Retrieval](https://dl.acm.org/doi/pdf/10.1145/3626772.3657833)
  
  XingningDong, ZipengFeng, ChunluanZhou, XuzhengYu, MingYang, **Qingpei Guo**<sup><b>*</b></sup>
+
+ **Corresponding author**
+
  </div>
 </div>
 
@@ -92,6 +98,9 @@ Yudong Han, **Qingpei Guo**<sup><b>*</b></sup>, Liyuan Pan, Liu Liu, Yu Guan, Mi
 [SyCoCa: Symmetrizing Contrastive Captioners with Attentive Masking for Multimodal Alignment](https://dl.acm.org/doi/10.5555/3692070.3693455)
 
 Ziping Ma, Furong Xu, Jian Liu, Ming Yang, **Qingpei Guo**<sup><b>*</b></sup>
+
+ **Corresponding author**
+
 </div>
 </div>
 
@@ -123,6 +132,9 @@ Shiyu Xuan1, **Qingpei Guo**, Ming Yang, Shiliang Zhang
 [HOTVCOM: Generating buzzworthy comments for videos](https://aclanthology.org/2024.findings-acl.130.pdf)
  
  Yuyan Chen, Yiwen Qian, Songzhou Yan, Jiyuan Jia, Zhixu Li, Yanghua Xiao, Xiaobo Li, Aaron Xuxiang Tian, Ming Yang, **Qingpei Guo**<sup><b>*</b></sup>
+
+  **Corresponding author**
+
 </div>
 </div>
 
