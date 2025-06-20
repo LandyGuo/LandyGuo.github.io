@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About me
-I am currently a staff algorithm engineer of Ant Group, leading a team of over ten individuals for research and development in multi-modal LLMs. My main interest is to design and deliver cognitive computing services, including computer vision, visual language alignment and multimodal video understanding. I have published [30+](https://scholar.google.com/citations?hl=zh-CN&user=11HDEbkAAAAJ&view_op=list_works&sortby=pubdate) papers in top-tier conferences and journals, including CVPR/ICML/SIGIR/ECCV/IJCAI/AAAI.
+I am currently a staff algorithm engineer of [Ant Group](https://www.antgroup.com/en), leading a team of over ten individuals for research and development in multi-modal LLMs. My main interest is to design and deliver cognitive computing services, including computer vision, visual language alignment and multimodal video understanding. I have published [30+](https://scholar.google.com/citations?hl=zh-CN&user=11HDEbkAAAAJ&view_op=list_works&sortby=pubdate) papers in top-tier conferences and journals, including CVPR/ICML/SIGIR/ECCV/IJCAI/AAAI.
 
 I am currently looking for full-time algorithm engineers and research interns. Please contact me (qingpei.gqp@antgroup.com) with your CV if you are interested!
 
@@ -135,7 +135,7 @@ Shiyu Xuan1, **Qingpei Guo**, Ming Yang, Shiliang Zhang
 - *2010 - 2014*,   Bachelor of Business Management (Dual Degrees)  [Huazhong  University of Science and Technology](https://english.hust.edu.cn/)
 
 
-# 🎖 Fellowships & Awards
+# 🎖 Fellowships and Awards
 - Master Enterprise Supervisor of Chinese Academy of Sciences the Enterprise mentor.      
 - [Master Enterprise Supervisor of Fudan University.](https://gs.fudan.edu.cn/1f/fe/c11107a663550/page.htm)                                                                             
 - [The first place of ICDAR MLT Text Localization.](https://rrc.cvc.uab.es/?ch=8&com=evaluation&task=1)                                                                                            
