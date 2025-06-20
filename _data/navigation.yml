@@ -4,16 +4,16 @@ main:
     url: "/#about-me"
 
   - title: "News"
-    url: "/#news"
+    url: "/#-news"
 
   - title: "Selected Publications"
-    url: "/#selected-publications"
+    url: "/#-selected-publications"
 
   - title: "Invited Talks"
-    url: "/#invited-talks"
+    url: "/#-invited-talks"
     
   - title: "Educations"
-    url: "/#educations"
+    url: "/#-educations"
 
   - title: "Fellowships & Awards"
-    url: "/#fellowship-awards"
+    url: "/#-fellowship-awards"
