@@ -30,7 +30,8 @@ I am currently looking for full-time algorithm engineers and research interns. P
 
 ## [Complete publication list](https://scholar.google.com/citations?hl=zh-CN&user=11HDEbkAAAAJ&view_op=list_works&sortby=pubdate)
 
-- ## Unified multimodal model 
+## 🧠 Unified multimodal model 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Ming.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -65,7 +66,7 @@ I am currently looking for full-time algorithm engineers and research interns. P
 </div>
 </div>
 
-- ## Multimodal video understanding
+## 📸 Multimodal video understanding
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/CVPR25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -124,7 +125,7 @@ Shiyu Xuan1, **Qingpei Guo**, Ming Yang, Shiliang Zhang
 </div>
 </div>
 
-- ## Application of MLLMs
+## 🛠️ Application of MLLMs
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/ACL2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
