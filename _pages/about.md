@@ -150,7 +150,7 @@ Shiyu Xuan, **Qingpei Guo**, Ming Yang, Shiliang Zhang
 
 **Guo Q**. Method and system for facilitating recognition of vehicle parts based on a neural network: U.S. Patent 11,475,660[P]. 2022-10-18
 
-## others
+## Others
 
 一种鲁棒的基于深度学习的连续情绪跟踪方法-CN106919903B
 
