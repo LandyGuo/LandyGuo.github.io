@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About me
-I am currently a staff algorithm engineer of [Ant Group](https://www.antgroup.com/en), leading a team of over ten individuals for research and development in multi-modal LLMs. My main interest is to design and deliver cognitive computing services, including computer vision, visual language alignment and multimodal video understanding. I have published [30+](https://scholar.google.com/citations?hl=zh-CN&user=11HDEbkAAAAJ&view_op=list_works&sortby=pubdate) papers in top-tier conferences and journals, including CVPR/ICML/SIGIR/ECCV/IJCAI/AAAI.
+I am currently a staff algorithm engineer of [Ant Group](https://www.antgroup.com/en), leading a team of over 90 individuals for research and development in multi-modal LLMs. My main interest is to design and deliver cognitive computing services, including computer vision, visual language alignment and multimodal video understanding. I have published [30+](https://scholar.google.com/citations?hl=zh-CN&user=11HDEbkAAAAJ&view_op=list_works&sortby=pubdate) papers in top-tier conferences and journals, including CVPR/ICML/SIGIR/ECCV/IJCAI/AAAI.
 
 I am currently looking for full-time algorithm engineers and research interns. Please contact me (qingpei.gqp@antgroup.com) with your CV if you are interested!
 
@@ -119,7 +119,7 @@ Yabing Wang, Zhuotao Tian, **Qingpei Guo**, Zheng Qin, Sanping Zhou, Ming Yang, 
   
 [Pink: Unveiling the Power of Referential Comprehension for Multi-modal LLMs](https://openaccess.thecvf.com/content/CVPR2024/papers/Xuan_Pink_Unveiling_the_Power_of_Referential_Comprehension_for_Multi-modal_LLMs_CVPR_2024_paper.pdf)
 
-Shiyu Xuan1, **Qingpei Guo**, Ming Yang, Shiliang Zhang
+Shiyu Xuan, **Qingpei Guo**, Ming Yang, Shiliang Zhang
 
 [**Code**](https://github.com/SY-Xuan/Pink)\| ![](https://img.shields.io/github/stars/SY-Xuan/Pink?style=social&label=Stars)
 </div>
@@ -142,9 +142,9 @@ Shiyu Xuan1, **Qingpei Guo**, Ming Yang, Shiliang Zhang
 # 💬 Invited Talks
 - *2024.07*, My speech about our model [Ming-Omni](https://www.isc.org.cn/article/21390285410922496.html).
 
-# ®️ Patents
+# 📌 Patents
 
-## US Patent
+## US Patents
 
 **Guo Q**, Chu W. Coding apparatuses, and data processing methods and apparatuses: U.S. Patent Application 18/348,122[P]. 2024-4-25. 
 
