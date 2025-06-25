@@ -147,27 +147,45 @@ Shiyu Xuan1, **Qingpei Guo**, Ming Yang, Shiliang Zhang
 ## US Patent
 
 **Guo Q**, Chu W. Coding apparatuses, and data processing methods and apparatuses: U.S. Patent Application 18/348,122[P]. 2024-4-25. 
+
 **Guo Q**. Method and system for facilitating recognition of vehicle parts based on a neural network: U.S. Patent 11,475,660[P]. 2022-10-18
 
 ## others
 
 一种鲁棒的基于深度学习的连续情绪跟踪方法-CN106919903B
+
 图像处理的方法及装置-CN111524150B
+
 用于训练特征提取模型的方法、特征提取方法和装置- CN116522142A
+
 基于自然交互的隐式身份认证方法-CN106888204B
+
 用于确定文本和视频之间的相似度的方法和装置-CN116958868A
+
 基于图片的意图检测方法及装置-CN115512340A
+
 通过计算机执行的、用于识别车辆部件的方法及装置-CN110705590B
+
 视频特征模型训练方法及装置、视频特征提取方法及装置-CN116721375A
+
 一种通过多图形处理器计算对比损失的方法和装置-CN117556273A
+
 一种聊天机器人应答方法和装置-CN110457456A
+
 一种多模态模型的训练方法及装置-CN117541894A
+
 训练内容理解模型和内容生成模型的方法及装置-CN117235534A
+
 视频编辑方法及装置-CN117315056A
+
 用于确定文本和视频之间的相似度的方法和装置-CN117556276A
+
 大模型的训练方法和装置-CN117521759A
+
 一种获取多模态特征方法和装置-CN117521017A
+
 编码装置、数据处理方法及装置-CN115062782A
+
 透過電腦執行的、用於車輛零件識別的神經網路系統、透過神經網路系統進行車輛零件識別的方法、進行車輛零件識別的裝置和計算設備-TWI742382B
 
 # 📖 Educations
