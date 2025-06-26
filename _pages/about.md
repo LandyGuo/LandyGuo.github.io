@@ -30,9 +30,9 @@ I am currently looking for full-time algorithm engineers and research interns. P
 
 # 📝 Selected Publications
 
-## [Complete publication list](https://scholar.google.com/citations?hl=zh-CN&user=11HDEbkAAAAJ&view_op=list_works&sortby=pubdate)
+## (Out of [30+](https://scholar.google.com/citations?hl=zh-CN&user=11HDEbkAAAAJ&view_op=list_works&sortby=pubdate) publications)
 
-## 🧠 Unified multimodal model 
+## 🧠 Omni LLMs 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Ming.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -54,21 +54,7 @@ I am currently looking for full-time algorithm engineers and research interns. P
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/CVPR25_1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[SegAgent: Exploring Pixel Understanding Capabilities in MLLMs by Imitating HumanAnnotator Trajectories](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhu_SegAgent_Exploring_Pixel_Understanding_Capabilities_in_MLLMs_by_Imitating_Human_CVPR_2025_paper.pdf)
-
- Muzhi Zhu, Yuzhuo Tian, Hao Chen, Chunluan Zhou, **Qingpei Guo**<sup><b>*</b></sup>, Yang Liu, Ming Yang, Chunhua Shen
-
- **Corresponding author**
-
-  [**Code**](https://github.com/aim-uofa/SegAgent) \| ![](https://img.shields.io/github/stars/aim-uofa/SegAgent?style=social&label=Stars)
-</div>
-</div>
-
-## 📸 Multimodal video understanding
+## 📸 Multimodal LLMs
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/CVPR25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -80,6 +66,19 @@ Yudong Han, **Qingpei Guo**<sup><b>*</b></sup>, Liyuan Pan, Liu Liu, Yu Guan, Mi
  **Corresponding author**
 
  [**Code**](https://github.com/Simon98-AI/DynFocus) \| ![](https://img.shields.io/github/stars/Simon98-AI/DynFocus?style=social&label=Stars)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/CVPR25_1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SegAgent: Exploring Pixel Understanding Capabilities in MLLMs by Imitating HumanAnnotator Trajectories](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhu_SegAgent_Exploring_Pixel_Understanding_Capabilities_in_MLLMs_by_Imitating_Human_CVPR_2025_paper.pdf)
+
+ Muzhi Zhu, Yuzhuo Tian, Hao Chen, Chunluan Zhou, **Qingpei Guo**<sup><b>*</b></sup>, Yang Liu, Ming Yang, Chunhua Shen
+
+ **Corresponding author**
+
+  [**Code**](https://github.com/aim-uofa/SegAgent) \| ![](https://img.shields.io/github/stars/aim-uofa/SegAgent?style=social&label=Stars)
 </div>
 </div>
 
