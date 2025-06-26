@@ -82,6 +82,17 @@ Yudong Han, **Qingpei Guo**<sup><b>*</b></sup>, Liyuan Pan, Liu Liu, Yu Guan, Mi
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/M2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[M2-Encoder: Advancing Bilingual Image-Text Understanding by Large-scale Efficient Pretraining](https://arxiv.org/pdf/2401.15896)
+
+**Qingpei Guo**, Furong Xu, Hanxiao Zhang, Wang Ren, Ziping Ma, Lin Ju, Jian Wang, Jingdong Chen, Ming Yang
+
+  [**Code**](https://github.com/alipay/Ant-Multi-Modal-Framework/tree/main/prj/M2_Encoder) \| ![](https://img.shields.io/github/stars/alipay/Ant-Multi-Modal-Framework/tree/main/prj/M2_Encoder?style=social&label=Stars)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2024</div><img src='images/SIGIR2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
