@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About me
-I am currently a staff algorithm engineer of [Ant Group](https://www.antgroup.com/en), leading a team of over 90 individuals for research and development in multi-modal LLMs. My main interest is to design and deliver cognitive computing services, including computer vision, visual language alignment and multimodal video understanding. I have published [30+](https://scholar.google.com/citations?hl=zh-CN&user=11HDEbkAAAAJ&view_op=list_works&sortby=pubdate) papers in top-tier conferences and journals, including CVPR/ICML/SIGIR/ECCV/IJCAI/AAAI.
+I am currently a staff algorithm engineer of [Ant Group](https://www.antgroup.com/en), leading a team of over ten individuals for research and development in multi-modal LLMs. My main interest is to design and deliver cognitive computing services, including computer vision, visual language alignment and multimodal video understanding. I have published [30+](https://scholar.google.com/citations?hl=zh-CN&user=11HDEbkAAAAJ&view_op=list_works&sortby=pubdate) papers in top-tier conferences and journals, including CVPR/ICML/SIGIR/ECCV/IJCAI/AAAI.
 
 I am currently looking for full-time algorithm engineers and research interns. Please contact me (qingpei.gqp@antgroup.com) with your CV if you are interested!
 
