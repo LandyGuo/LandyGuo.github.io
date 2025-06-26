@@ -89,7 +89,7 @@ Yudong Han, **Qingpei Guo**<sup><b>*</b></sup>, Liyuan Pan, Liu Liu, Yu Guan, Mi
 
 **Qingpei Guo**, Furong Xu, Hanxiao Zhang, Wang Ren, Ziping Ma, Lin Ju, Jian Wang, Jingdong Chen, Ming Yang
 
-  [**Code**](https://github.com/alipay/Ant-Multi-Modal-Framework/tree/main/prj/M2_Encoder) \| ![](https://img.shields.io/github/stars/alipay/Ant-Multi-Modal-Framework/tree/main/prj/M2_Encoder?style=social&label=Stars)
+  [**Code**](https://github.com/alipay/Ant-Multi-Modal-Framework/tree/main/prj/M2_Encoder) \| ![](https://img.shields.io/github/stars/alipay/Ant-Multi-Modal-Framework/tree/main?style=social&label=Stars)
 </div>
 </div>
 
