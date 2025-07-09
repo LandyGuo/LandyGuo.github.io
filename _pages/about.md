@@ -42,7 +42,8 @@ I am currently looking for full-time algorithm engineers and research interns. P
 
 **Project lead**.
 
-[**Project**](https://github.com/inclusionAI/Ming) \| ![](https://img.shields.io/github/stars/inclusionAI/Ming?style=social&label=Stars)
+[**Project**](https://github.com/inclusionAI/Ming) \| ![](https://img.shields.io/github/stars/inclusionAI/Ming?style=social&label=Stars) \| [![Hugging Face](https://img.shields.io/badge/HuggingFace-Model-yellow?logo=huggingface)](https://huggingface.co/inclusionAI/Ming-Lite-Omni)
+
 </div>
 </div>
 
