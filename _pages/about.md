@@ -24,7 +24,7 @@ I am currently looking for full-time algorithm engineers and research interns. P
 
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 We proposed [Ming-Omni](https://arxiv.org/pdf/2506.09344) \| [![](https://img.shields.io/github/stars/inclusionAI/Ming?style=social&label=Stars)], a unified multimodal model capable of processing images, text, audio, and video, while demonstrating strong proficiency in both speech and image generation.
+- *2025.05*: &nbsp;🎉🎉 We proposed [Ming-Omni](https://lucaria-academy.github.io/Ming-Omni/) \| [![](https://img.shields.io/github/stars/inclusionAI/Ming?style=social&label=Stars)], a unified multimodal model capable of processing images, text, audio, and video, while demonstrating strong proficiency in both speech and image generation.
 
 - *2025.06*: &nbsp;🎉🎉 3 papers are accepted by ICCV 2025! 
 
