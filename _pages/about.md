@@ -91,7 +91,8 @@ Yudong Han, **Qingpei Guo**<sup><b>*</b></sup>, Liyuan Pan, Liu Liu, Yu Guan, Mi
 
 **Qingpei Guo**, Furong Xu, Hanxiao Zhang, Wang Ren, Ziping Ma, Lin Ju, Jian Wang, Jingdong Chen, Ming Yang
 
-  [**Code**](https://github.com/alipay/Ant-Multi-Modal-Framework/tree/main/prj/M2_Encoder) \| ![](https://img.shields.io/github/stars/alipay/Ant-Multi-Modal-Framework?style=social&label=Stars) \|[![ModelScope](./assets/modelscope-badge.png)](https://modelscope.cn/models/M2Cognition/M2-Encoder)
+  [**Code**](https://github.com/alipay/Ant-Multi-Modal-Framework/tree/main/prj/M2_Encoder) \| ![](https://img.shields.io/github/stars/alipay/Ant-Multi-Modal-Framework?style=social&label=Stars) \|[<img src="https://modelscope.cn/favicon.ico" width="20"/>](https://modelscope.cn/models/M2Cognition/M2-Encoder)
+
 
 </div>
 </div>
