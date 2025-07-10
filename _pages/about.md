@@ -53,6 +53,8 @@ I am currently looking for full-time algorithm engineers and research interns. P
 [M2-omni: Advancing omni-mllm for comprehensive modality support with competitive performance](https://arxiv.org/pdf/2502.18778)
 
 **Qingpei Guo**, Kaiyou Song, Zipeng Feng, Ziping Ma, Qinglong Zhang, Sirui Gao, Xuzheng Yu, Yunxiao Sun, Tai-Wei Chang, Jingdong Chen, Ming Yang, Jun Zhou
+
+[🤖 ModelScope](https://www.modelscope.cn/models/M2Cognition/M2-omni)
 </div>
 </div>
 
@@ -91,7 +93,7 @@ Yudong Han, **Qingpei Guo**<sup><b>*</b></sup>, Liyuan Pan, Liu Liu, Yu Guan, Mi
 
 **Qingpei Guo**, Furong Xu, Hanxiao Zhang, Wang Ren, Ziping Ma, Lin Ju, Jian Wang, Jingdong Chen, Ming Yang
 
-  [**Code**](https://github.com/alipay/Ant-Multi-Modal-Framework/tree/main/prj/M2_Encoder) \| ![](https://img.shields.io/github/stars/alipay/Ant-Multi-Modal-Framework?style=social&label=Stars) \|[<img src="https://modelscope.cn/favicon.ico" width="20"/>](https://modelscope.cn/models/M2Cognition/M2-Encoder)
+  [**Code**](https://github.com/alipay/Ant-Multi-Modal-Framework/tree/main/prj/M2_Encoder) \| ![](https://img.shields.io/github/stars/alipay/Ant-Multi-Modal-Framework?style=social&label=Stars) \|[🤖 ModelScope](https://modelscope.cn/models/M2Cognition/M2-Encoder)
 
 
 </div>
